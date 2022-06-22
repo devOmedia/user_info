@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+This app has all user info with social media, phone number and locatios.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
